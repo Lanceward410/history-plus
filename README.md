@@ -1,4 +1,4 @@
-~Under Construction~
+Under Construction!
 
 1.) Go to Chrome's extensions manager
 2.) Click "Load unpacked"
