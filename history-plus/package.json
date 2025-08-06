@@ -1,0 +1,27 @@
+{
+  "name": "history-plus",
+  "version": "1.0.0",
+  "description": "AI-Powered Web History Companion - Transform your browsing history into insights",
+  "main": "background.js",
+  "scripts": {
+    "dev": "web-ext run --source-dir .",
+    "build": "web-ext build --source-dir .",
+    "lint": "web-ext lint --source-dir .",
+    "test": "jest",
+    "start-backend": "python backend/app.py"
+  },
+  "keywords": [
+    "chrome-extension",
+    "history",
+    "ai",
+    "productivity",
+    "browser-extension"
+  ],
+  "author": "Lance Ward",
+  "license": "MIT",
+  "devDependencies": {
+    "web-ext": "^7.8.0",
+    "jest": "^29.7.0"
+  },
+  "dependencies": {}
+} 
